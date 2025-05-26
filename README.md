@@ -6,7 +6,7 @@ Welcome to the **Civic Platform Landing Page** – a sleek, responsive, and purp
 
 ## 🚀 Overview
 
-The Civic Platform Landing Page serves as the digital front door to a community-centric application that enables users to discover, create, and collaborate on local initiatives and social campaigns. It communicates the platform's mission, key features, and calls-to-action with elegance and clarity.
+The Civic Platform Landing Page serves as the digital front door to a community-centric application that enables users to discover, create, and collaborate on local initiatives and social campaigns. It communicates the platform's mission, key features, and calls-to-action with elegance and with clarity.
 
 ---
 
