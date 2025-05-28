@@ -1,4 +1,4 @@
-# 🌐 Civic Platform Landing Page
+# 🌐 Civic Platform Landing Page...
 
 Welcome to the **Civic Platform Landing Page** – a sleek, responsive, and purpose-driven front page built to inspire collective civic engagement. This project is designed using modern web technologies, including **React**, **TypeScript**, **JavaScript**, **HTML**, and **CSS**, all integrated within a unified workspace.
 
